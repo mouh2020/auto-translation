@@ -1,7 +1,7 @@
 # auto-translation
 
 auto-translation is a simple python library to translate any other
-language or transform it to speech with google traduction , all that
+language or transform it to speech with google translation , all that
 using the user's Chrome browser with selenium in hidden mode , mean time
 to return the translation or speech 15 seconds
 
