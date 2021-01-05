@@ -1,0 +1,1 @@
+from auto_browser.selenium_translation import Chrome
