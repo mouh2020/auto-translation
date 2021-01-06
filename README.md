@@ -16,7 +16,7 @@ to return the translation or speech 15 seconds
 | >>> test=Chrome()  |
 
 | >>> print(
-test.translate_text(text='*Bonjour*',from_lang='*fr*',to_lang='*fr*') )|
+test.translate_text(text='*Bonjour*',from_lang='*fr*',to_lang='*en*') )|
 
 | >>> Good morning |
 
